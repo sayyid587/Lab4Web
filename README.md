@@ -119,7 +119,7 @@ Tambahkan artikel dengan gambar dan teks menggunakan tag `<article>`.
 ![Langkah 12 Code](img/code10_1.png)
 
 **📸 Hasil Browser:**
-![Langkah 13 Hasil](img/hasl10.png)
+![Langkah 13 Hasil](img/hasil10.png)
 
 ---
 
