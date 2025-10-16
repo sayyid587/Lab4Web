@@ -68,7 +68,7 @@ Tambahkan elemen `<nav>` untuk menu utama dan atur tampilannya menggunakan CSS.
 Tambahkan section **hero** berisi teks sambutan dan tombol aksi.
 
 **📸 Tampilan Code:**
-![Langkah 8 Code](img/code6.png)
+<img src="img/code6.png" alt="Tampilan Code" width="100%">
 
 **📸 Hasil Browser:**
 ![Langkah 8 Hasil](img/hasil6.png)
@@ -79,8 +79,8 @@ Tambahkan section **hero** berisi teks sambutan dan tombol aksi.
 Gunakan CSS `float` untuk memisahkan konten utama dan sidebar. Tambahkan elemen **widget** pada sidebar, seperti tautan atau teks tambahan.
 
 **📸 Tampilan Code:**
-<img src="img/code7.png" alt="Tampilan Code" width="50%">
-<img src="img/code7_1.png" alt="Tampilan Code" width="50%">
+<img src="img/code7.png" alt="Tampilan Code" width="100%">
+<img src="img/code7_1.png" alt="Tampilan Code" width="100%">
 
 **📸 Hasil Browser:**
 ![Langkah 9 Hasil](img/hasil7.png)
@@ -102,8 +102,8 @@ Tambahkan bagian **footer** di bawah halaman untuk informasi hak cipta.
 Tambahkan beberapa box bergambar dalam main content untuk mempercantik tampilan.
 
 **📸 Tampilan Code:**
-<img src="img/code9.png" alt="Tampilan Code" width="50%">
-<img src="img/code9_1.png" alt="Tampilan Code" width="50%">
+<img src="img/code9.png" alt="Tampilan Code" width="100%">
+<img src="img/code9_1.png" alt="Tampilan Code" width="100%">
 
 **📸 Hasil Browser:**
 ![Langkah 12 Hasil](img/hasil9.png)
@@ -114,8 +114,8 @@ Tambahkan beberapa box bergambar dalam main content untuk mempercantik tampilan.
 Tambahkan artikel dengan gambar dan teks menggunakan tag `<article>`.
 
 **📸 Tampilan Code:**
-<img src="img/code10.png" alt="Tampilan Code" width="50%">
-<img src="img/code10_1.png" alt="Tampilan Code" width="50%">
+<img src="img/code10.png" alt="Tampilan Code" width="100%">
+<img src="img/code10_1.png" alt="Tampilan Code" width="100%">
 
 **📸 Hasil Browser:**
 ![Langkah 13 Hasil](img/hasil10.png)
