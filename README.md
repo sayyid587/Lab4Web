@@ -36,8 +36,7 @@ Coba nilai **left**, **right**, dan **both** untuk melihat perbedaannya.
 Buat folder baru bernama **`lab4_layout`** dan file **`home.html`** serta **`style.css`**. Tambahkan elemen `<header>` berisi judul halaman. 
 
 **📸 Tampilan Code:**
-![Langkah 5 Code](img/code3.png)
-
+<img src="img/code3.png" alt="Tampilan Code" width="100%">
 **📸 Hasil Browser:**
 ![Langkah 5 Hasil](img/hasil3.png)
 
@@ -58,7 +57,7 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya.
 Tambahkan elemen `<nav>` untuk menu utama dan atur tampilannya menggunakan CSS.
 
 **📸 Tampilan Code:**
-![Langkah 7 Code](img/code5.png)
+<img src="img/code5.png" alt="Tampilan Code" width="100%">
 
 **📸 Hasil Browser:**
 ![Langkah 7 Hasil](img/hasil5.png)
@@ -80,8 +79,8 @@ Tambahkan section **hero** berisi teks sambutan dan tombol aksi.
 Gunakan CSS `float` untuk memisahkan konten utama dan sidebar. Tambahkan elemen **widget** pada sidebar, seperti tautan atau teks tambahan.
 
 **📸 Tampilan Code:**
-![Langkah 9 Code](img/code7.png)
-![Langkah 9 Code](img/code7_1.png)
+<img src="img/code7.png" alt="Tampilan Code" width="50%">
+<img src="img/code7_1.png" alt="Tampilan Code" width="50%">
 
 **📸 Hasil Browser:**
 ![Langkah 9 Hasil](img/hasil7.png)
@@ -103,8 +102,8 @@ Tambahkan bagian **footer** di bawah halaman untuk informasi hak cipta.
 Tambahkan beberapa box bergambar dalam main content untuk mempercantik tampilan.
 
 **📸 Tampilan Code:**
-![Langkah 12 Code](img/code9.png)
-![Langkah 12 Code](img/code9_1.png)
+<img src="img/code9.png" alt="Tampilan Code" width="50%">
+<img src="img/code9_1.png" alt="Tampilan Code" width="50%">
 
 **📸 Hasil Browser:**
 ![Langkah 12 Hasil](img/hasil9.png)
@@ -115,8 +114,8 @@ Tambahkan beberapa box bergambar dalam main content untuk mempercantik tampilan.
 Tambahkan artikel dengan gambar dan teks menggunakan tag `<article>`.
 
 **📸 Tampilan Code:**
-![Langkah 13 Code](img/code10.png)
-![Langkah 12 Code](img/code10_1.png)
+<img src="img/code10.png" alt="Tampilan Code" width="50%">
+<img src="img/code10_1.png" alt="Tampilan Code" width="50%">
 
 **📸 Hasil Browser:**
 ![Langkah 13 Hasil](img/hasil10.png)
