@@ -126,25 +126,16 @@ Tambahkan artikel dengan gambar dan teks menggunakan tag `<article>`.
 ## Pertanyaan dan Tugas
 1. Tambahkan **layout untuk menu About**, berisi deskripsi atau portfolio.
 
-**📸 Tampilan Code:**
-![Langkah 13 Code](img/code11.png)
-![Langkah 12 Code](img/code11_1.png)
-
 **📸 Hasil Browser:**
-![Langkah 13 Hasil](img/hasl11.png)
-
+![Langkah 13 Hasil](img/hasil11.png)
 
 2. Tambahkan **layout untuk menu Contact**, berisi form isian:  
    - Nama  
    - Email  
    - Pesan  
 
-**📸 Tampilan Code:**
-![Langkah 13 Code](img/code12.png)
-![Langkah 12 Code](img/code12_1.png)
-
 **📸 Hasil Browser:**
-![Langkah 13 Hasil](img/hasl12.png)
+![Langkah 13 Hasil](img/hasil12.png)
 
 ---
 
