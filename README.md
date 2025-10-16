@@ -92,7 +92,7 @@ Gunakan CSS `float` untuk memisahkan konten utama dan sidebar. Tambahkan elemen 
 Tambahkan bagian **footer** di bawah halaman untuk informasi hak cipta.
 
 **📸 Tampilan Code:**
-<img src="img/code8.png" alt="Tampilan Code" width="600">
+<img src="img/code8.png" alt="Tampilan Code" width="100%">
 
 **📸 Hasil Browser:**
 ![Langkah 11 Hasil](img/hasil8.png)
